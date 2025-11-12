@@ -1,0 +1,47 @@
+## Hi there 👋 this is our org's dev guide still needs work but have fun.
+
+## Table of Contents
+- [Repository Structure](#repository-structure)
+- [Branch Strategy](#branch-strategy)
+
+## Repository Structure
+
+```
+organization/
+├── project-name/
+│   ├── src/
+│   ├── tests/
+│   ├── docs/
+│   ├── .github/
+│   │   ├── workflows/
+│   │   ├── PULL_REQUEST_TEMPLATE.md
+│   │   └── ISSUE_TEMPLATE/
+│   ├── README.md
+│   └── CONTRIBUTING.md
+```
+
+### Repository Naming Convention
+- Use lowercase with hyphens: `project-name`
+- Be descriptive and concise
+
+## Branch Strategy
+
+### Main Branches
+- **`main`** - Production-ready code, protected branch
+- **`develop`** - Integration branch for features, protected branch
+
+### Branch Rules
+1. Always branch from `develop` for new features
+2. Hotfixes branch from `main` and merge to both `main` and `develop`
+3. Delete branches after merging
+
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
