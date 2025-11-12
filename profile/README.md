@@ -1,13 +1,13 @@
-## Hi there 👋 this is our org's dev guide still needs work but have fun.
+## Hi there 👋 this is our org's dev guide... have fun 😎
 
 ## Table of Contents
 - [Repository Structure](#repository-structure)
 - [Branch Strategy](#branch-strategy)
 
-## Repository Structure
+## General Repository Structure
 
 ```
-organization/
+Core-Group-Supply-Chain/
 ├── project-name/
 │   ├── src/
 │   ├── tests/
