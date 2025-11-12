@@ -1,6 +1,6 @@
-## Hi there 👋 this is our org's dev guide... have fun 😎
+## Welcome to Core Group Supply Chain 👋 ... have fun 😎
 
-A repository that sets default configurations for ALL repositories in the organization. The purpose of which is to define organisation standards and provide default templates.
+(Brief description of what your organization does and its mission.)
 
 
 ## Table of Contents
@@ -17,10 +17,9 @@ Core-Group-Supply-Chain/
 │   ├── docs/
 │   ├── .github/
 │   │   ├── workflows/
-│   │   ├── PULL_REQUEST_TEMPLATE.md
-│   │   └── ISSUE_TEMPLATE/
 │   ├── README.md
 │   └── CONTRIBUTING.md
+
 ```
 
 ### Repository Naming Convention
