@@ -1,5 +1,8 @@
 ## Hi there 👋 this is our org's dev guide... have fun 😎
 
+A repository that sets default configurations for ALL repositories in the organization. The purpose of which is to define organisation standards and provide default templates.
+
+
 ## Table of Contents
 - [Repository Structure](#repository-structure)
 - [Branch Strategy](#branch-strategy)
