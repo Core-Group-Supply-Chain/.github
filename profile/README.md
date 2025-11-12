@@ -1,8 +1,5 @@
 ## Welcome to Core Group Supply Chain 👋 ... have fun 😎
 
-(Brief description of what your organization does and its mission.)
-
-
 ## Table of Contents
 - [Repository Structure](#repository-structure)
 - [Branch Strategy](#branch-strategy)
@@ -19,7 +16,6 @@ Core-Group-Supply-Chain/
 │   │   ├── workflows/
 │   ├── README.md
 │   └── CONTRIBUTING.md
-
 ```
 
 ### Repository Naming Convention
