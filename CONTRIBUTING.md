@@ -1,7 +1,5 @@
 # Contributing Guide
 
-Thank you for your interest in contributing to our projects!
-
 ## Getting Started
 
 1. Fork the repository
@@ -19,13 +17,13 @@ git clone https://github.com/org-name/repo-name.git
 cd repo-name
 
 # Install dependencies
-npm install  # or yarn install, pip install -r requirements.txt, etc.
+poetry install #npm install or yarn install, pip install -r requirements.txt, etc.
 
-# Run tests
-npm test
+# Run tests directly using poetry and pytest
+poetry run pytest
+poetry run python -m pytest
+poetry run python -m unittest
 
-# Start development server
-npm run dev
 ```
 
 ## Commit Message Convention
