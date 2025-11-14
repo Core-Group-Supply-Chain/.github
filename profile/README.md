@@ -1,4 +1,4 @@
-## Welcome to Core Group Supply Chain.
+## Welcome to Core Group Supply Chain
 
 ## Table of Contents
 - [Repository Structure](#repository-structure)
