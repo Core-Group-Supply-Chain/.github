@@ -15,9 +15,18 @@ Core-Group-Supply-Chain/
 │   ├── .github/
 │   │   ├── workflows/
 │   ├── README.md
-│   └── CONTRIBUTING.md
 │   └── CHANGELOG.md
+│   └── requirements.txt or pyproject.toml
+
 ```
+#### The README.md
+- Project Title & Description: What does this actually do?
+- Prerequisites: What version of Python? What OS? (e.g., "Python 3.10+").
+- Installation: Clear, step-by-step commands (e.g., poetry install or pip install -r requirements.txt).
+
+  #### Dependency document
+- requirements.txt or pyproject.toml
+- Ensures the environment is identical across machines.
 
 ### Repository Naming Convention
 - Use lowercase with hyphens: `project-name`
