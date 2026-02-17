@@ -24,7 +24,7 @@ Core-Group-Supply-Chain/
 - Prerequisites: What version of Python? What OS? (e.g., "Python 3.10+").
 - Installation: Clear, step-by-step commands (e.g., poetry install or pip install -r requirements.txt).
 
-  #### Dependency document
+#### Dependency document
 - requirements.txt or pyproject.toml
 - Ensures the environment is identical across machines.
 
