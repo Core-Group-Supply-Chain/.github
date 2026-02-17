@@ -6,7 +6,7 @@
 2. Clone your fork: `git clone https://github.com/YOUR-USERNAME/repo-name.git`
 3. Create a branch: `git checkout -b feature/your-feature-name`
 4. Make your changes
-5. Stage: 'git add <filename/s>'
+5. Stage: `git add <filename/s>`
 7. Commit: `git commit -m "feat: add new feature"`
 8. Push: `git push origin feature/your-feature-name`
 9. Open a Pull Request
