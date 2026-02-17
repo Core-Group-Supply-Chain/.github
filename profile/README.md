@@ -16,6 +16,7 @@ Core-Group-Supply-Chain/
 │   │   ├── workflows/
 │   ├── README.md
 │   └── CONTRIBUTING.md
+│   └── CHANGELOG.md
 ```
 
 ### Repository Naming Convention
