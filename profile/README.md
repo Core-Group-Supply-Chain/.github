@@ -33,6 +33,7 @@ Core-Group-Supply-Chain/
 - Be descriptive and concise
 
 ## Branch Strategy
+adopted from: https://nvie.com/posts/a-successful-git-branching-model/
 
 ### Main Branches
 - **`main`** - Production-ready code, protected branch
